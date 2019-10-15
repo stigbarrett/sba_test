@@ -1,2 +1,2 @@
-# sba_test
+# Resultatformidling
 Til test
